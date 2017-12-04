@@ -1,0 +1,53 @@
+body{
+	background:#FF855B;
+}
+
+nav{
+	background-color:#FF855B;
+
+}
+
+.panda-uno img{
+	width: 100%;
+}
+
+.text{
+	background-color: #b2ff59;
+	margin:20px;
+}
+
+.about{
+	background: #FF855B;
+	color:#fff;
+	margin: 50px;
+	font-size:18px;
+}
+
+.panda-dos img{
+	width: 100%;
+}
+
+article img{
+	margin: 3px;
+	border: #fff solid 5px;
+}
+
+article {
+	width: 100%;
+background-color:#b2ff59;
+margin:20px;
+}
+.container h3{
+	text-align: center;
+	color:#fff;
+	margin: 20px;
+	
+}
+
+.panditas{
+	margin:50px auto;
+}
+
+footer{
+	color:#fff;
+}
